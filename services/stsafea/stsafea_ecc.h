@@ -19,17 +19,17 @@
 #ifndef STSAFEA_ECC_H
 #define STSAFEA_ECC_H
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
-#include "services/stsafea/stsafea_commands.h"
-#include "services/stsafea/stsafea_hash.h"
-#include "services/stsafea/stsafea_put_query.h"
-#include "services/stsafea/stsafea_sessions.h"
-#include "services/stsafea/stsafea_timings.h"
-#include "stse_platform_generic.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_frame.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
+#include "../../core/stse_util.h"
+#include "stsafea_commands.h"
+#include "stsafea_hash.h"
+#include "stsafea_put_query.h"
+#include "stsafea_sessions.h"
+#include "stsafea_timings.h"
+#include "../../../stse_platform_generic.h"
 
 /*! \defgroup stsafea_ecc STSAFE-A Elliptic Curve Cryptography (ECC)
  *  \ingroup stsafea_services

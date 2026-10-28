@@ -19,10 +19,10 @@
 #ifndef STSE_SESSION_H
 #define STSE_SESSION_H
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_generic_typedef.h"
-#include "core/stse_return_codes.h"
+#include "stse_device.h"
+#include "stse_frame.h"
+#include "stse_generic_typedef.h"
+#include "stse_return_codes.h"
 
 /*!
  * \brief 		This Core function Erase the session context from STSAFE handler

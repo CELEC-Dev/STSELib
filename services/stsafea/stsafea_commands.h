@@ -29,11 +29,11 @@
  *  @{
  */
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_frame.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
+#include "../../core/stse_util.h"
 
 #define STSAFEA_TRUE 0b1
 #define STSAFEA_FALSE 0b0

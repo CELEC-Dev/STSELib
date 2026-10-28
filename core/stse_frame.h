@@ -24,10 +24,10 @@
 #ifndef STSAFE_FRAME_H
 #define STSAFE_FRAME_H
 
-#include "core/stse_device.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
+#include "stse_device.h"
+#include "stse_platform.h"
+#include "stse_return_codes.h"
+#include "stse_util.h"
 
 #define STSE_FRAME_CRC_SIZE 2U
 #define STSE_FRAME_LENGTH_SIZE 2U

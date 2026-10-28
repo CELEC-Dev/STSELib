@@ -24,9 +24,9 @@
 #ifndef STSE_GENERIC_TYPEDEF_H
 #define STSE_GENERIC_TYPEDEF_H
 
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
-#include "stse_conf.h"
+#include "stse_return_codes.h"
+#include "stse_util.h"
+#include "../../stse_conf.h"
 
 #define STSE_8BIT_LEN 8U
 #define STSE_7BIT_LEN 7U

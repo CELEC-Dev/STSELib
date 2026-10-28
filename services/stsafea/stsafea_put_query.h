@@ -19,13 +19,13 @@
 #ifndef STSAFEA_PUT_QUERY_H
 #define STSAFEA_PUT_QUERY_H
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
-#include "services/stsafea/stsafea_commands.h"
-#include "services/stsafea/stsafea_timings.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_frame.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
+#include "../../core/stse_util.h"
+#include "../../services/stsafea/stsafea_commands.h"
+#include "../../services/stsafea/stsafea_timings.h"
 
 /*  ---------------------------------------------------------------------------------------
  *

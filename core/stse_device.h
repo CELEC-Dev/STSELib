@@ -24,10 +24,10 @@ extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
-#include "core/stse_generic_typedef.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
-#include "stse_conf.h"
+#include "stse_generic_typedef.h"
+#include "stse_return_codes.h"
+#include "stse_util.h"
+#include "../../stse_conf.h"
 
 /*! \defgroup stse_device Device management
  *  \ingroup stse_core

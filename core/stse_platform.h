@@ -28,10 +28,10 @@
 #ifndef STSE_PLATFORM_H
 #define STSE_PLATFORM_H
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_util.h"
-#include "stse_platform_generic.h"
+#include "stse_device.h"
+#include "stse_frame.h"
+#include "stse_util.h"
+#include "../../stse_platform_generic.h"
 
 /*--------------------- STSAFE platform HAL functions --------------------------- */
 

@@ -19,11 +19,11 @@
 #ifndef STSE_SESSION_MANAGER_H
 #define STSE_SESSION_MANAGER_H
 
-#include "core/stse_device.h"
-#include "core/stse_frame.h"
-#include "core/stse_generic_typedef.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_frame.h"
+#include "../../core/stse_generic_typedef.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
 
 /*!
  * \brief 		This Core function Create a session context and associate it to STSAFE handler

@@ -24,10 +24,10 @@
 #ifndef STSAFEA_FRAME_TRANSFER_H
 #define STSAFEA_FRAME_TRANSFER_H
 
-#include "core/stse_device.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "core/stse_util.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
+#include "../../core/stse_util.h"
 
 #define STSAFEA_PRODUCT_COUNT 3U
 

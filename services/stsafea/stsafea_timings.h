@@ -22,11 +22,11 @@
 extern "C" {
 #endif
 
-#include "core/stse_device.h"
-#include "core/stse_platform.h"
-#include "core/stse_return_codes.h"
-#include "services/stsafea/stsafea_commands.h"
-#include "services/stsafea/stsafea_frame_transfer.h"
+#include "../../core/stse_device.h"
+#include "../../core/stse_platform.h"
+#include "../../core/stse_return_codes.h"
+#include "../../services/stsafea/stsafea_commands.h"
+#include "../../services/stsafea/stsafea_frame_transfer.h"
 
 #define STSAFEA_EXEC_TIME_DEFAULT 500U /*!< STSAFE default command processing time (used when specific time == 0) */
 
